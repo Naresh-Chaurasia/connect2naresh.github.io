@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://naresh-chaurasia.github.io/connect2naresh.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Mar 2022 08:55:07 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tikona</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh.github.io/trek/tikona/</link>
+      <pubDate>Mon, 28 Mar 2022 08:55:07 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh.github.io/trek/tikona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh.github.io/youtube/</link>
+      <pubDate>Mon, 28 Mar 2022 08:43:27 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh.github.io/youtube/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Steal Artist Austin Kleon</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh.github.io/books/steal-artist-austin-kleon/</link>
+      <pubDate>Sat, 19 Mar 2022 16:04:49 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh.github.io/books/steal-artist-austin-kleon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh.github.io/markdown/</link>
+      <pubDate>Sat, 19 Mar 2022 15:11:59 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh.github.io/markdown/</guid>
+      <description>Advertisement :)
+ pica - high quality and fast image resize in browser. babelfish - developer friendly i18n with plurals support and easy syntax.  You will like those projects!
+ h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules    Typographic replacements Enable typographer option to see result.
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+test.. test&amp;hellip; test&amp;hellip;.. test?</description>
+    </item>
+    
+    <item>
+      <title>Building Website with Hugo</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh.github.io/hugo/</link>
+      <pubDate>Sat, 19 Mar 2022 15:11:49 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh.github.io/hugo/</guid>
+      <description>Hugo Commands # create a site hugo new site nareshchaurasia cd nareshchaurasia # launch visual studio code code . # checkout theme cd themes git clone --depth 1 https://github.com/giraffeacademy/ga-hugo-theme # create content hugo new a.md hugo new dir1/b.md YouTube Playlist Hugo Tutorial
+ Tutorial 1  01:03 Hugo Make use of GO Programming 04:48 Simple Comparison static V/s dynamic website.   Tutorial 4  02:51 archetype: what is common to entire website.</description>
+    </item>
+    
+    <item>
+      <title>Emotional Intelligence</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh.github.io/eq/</link>
+      <pubDate>Sat, 19 Mar 2022 12:22:18 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh.github.io/eq/</guid>
+      <description>What is Emotional Intelligence Emotional intelligence is your ability to recognize how your emotions are governing your decisions and your thinking. Once you know how emotions affect you, physically and mentally, you are able to learn how to change your reactions. This does not mean changing your emotions or hiding them. What is means is that, you want to identify your emotions and understand why you are feeling a certain way and be more aware of what to do differently and how to do things differently.</description>
+    </item>
+    
+  </channel>
+</rss>

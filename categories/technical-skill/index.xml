@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Skill on My New Hugo Site</title>
+    <link>https://naresh-chaurasia.github.io/connect2naresh.github.io/categories/technical-skill/</link>
+    <description>Recent content in Technical Skill on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Mar 2022 15:11:59 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh.github.io/categories/technical-skill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh.github.io/markdown/</link>
+      <pubDate>Sat, 19 Mar 2022 15:11:59 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh.github.io/markdown/</guid>
+      <description>Advertisement :)
+ pica - high quality and fast image resize in browser. babelfish - developer friendly i18n with plurals support and easy syntax.  You will like those projects!
+ h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules    Typographic replacements Enable typographer option to see result.
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+test.. test&amp;hellip; test&amp;hellip;.. test?</description>
+    </item>
+    
+    <item>
+      <title>Building Website with Hugo</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh.github.io/hugo/</link>
+      <pubDate>Sat, 19 Mar 2022 15:11:49 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh.github.io/hugo/</guid>
+      <description>Hugo Commands # create a site hugo new site nareshchaurasia cd nareshchaurasia # launch visual studio code code . # checkout theme cd themes git clone --depth 1 https://github.com/giraffeacademy/ga-hugo-theme # create content hugo new a.md hugo new dir1/b.md YouTube Playlist Hugo Tutorial
+ Tutorial 1  01:03 Hugo Make use of GO Programming 04:48 Simple Comparison static V/s dynamic website.   Tutorial 4  02:51 archetype: what is common to entire website.</description>
+    </item>
+    
+  </channel>
+</rss>
